@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React_ContactPage/static/css/main.e6050f99.css",
+    "main.js": "/React_ContactPage/static/js/main.039ff045.js",
+    "static/js/453.1fa24651.chunk.js": "/React_ContactPage/static/js/453.1fa24651.chunk.js",
+    "static/media/contact.svg": "/React_ContactPage/static/media/contact.094da7f983989377d7280d7ade8beae9.svg",
+    "static/media/logo.svg": "/React_ContactPage/static/media/logo.afe15867ab412bdb23d35bbd85b72b4d.svg",
+    "index.html": "/React_ContactPage/index.html",
+    "main.e6050f99.css.map": "/React_ContactPage/static/css/main.e6050f99.css.map",
+    "main.039ff045.js.map": "/React_ContactPage/static/js/main.039ff045.js.map",
+    "453.1fa24651.chunk.js.map": "/React_ContactPage/static/js/453.1fa24651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6050f99.css",
+    "static/js/main.039ff045.js"
+  ]
+}
