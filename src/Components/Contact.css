@@ -1,0 +1,30 @@
+section{
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-form{
+    width:40vw;
+}
+
+.contact-image img{
+    width: auto;
+    height:50vh;
+    margin-left:80px;
+    margin-top: 40px;
+}   
+
+@media screen and (max-width: 764px) {
+    .contact-image img {
+     display: none;
+    }
+    section{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-form{
+        width:80%;
+    }
+    
+  }
+
