@@ -1,12 +1,13 @@
 import React from 'react';
 import './navigation.css';
+import logo from "../Components/assests/logo.svg";
 
 const Navigation = () => {
   return (
 <div>
     <nav>
     <div className='logo'>
-      <img src="/assests/logo.svg" alt="geosastra"/>
+      <img src={logo} alt="geosastra"/>
     </div>
     <ul className='navlist'>
         <li><a href="#Home">Home</a></li>
